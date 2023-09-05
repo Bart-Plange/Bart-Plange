@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Bart-Plange</h1>
-<h3 align="center">A frontend developer and Tutor</h3>
+<h3 align="center">A frontend developer and IT Tutor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bart-plange&label=Profile%20views&color=0e75b6&style=flat" alt="bart-plange" /> </p>
 
