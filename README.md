@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Bart-Plange</h1>
-<h3 align="center">Software Engineer | IT Tutor | Founder of Elyndor Properties</h3>
+<h3 align="center">Software Engineer | IT Tutor</h3>
 
 <p align="center">
 Building intelligent systems that automate operations, eliminate paperwork, and scale businesses.
@@ -19,7 +19,6 @@ Building intelligent systems that automate operations, eliminate paperwork, and 
 
 ### 🚀 What I Do
 
-- 🏗️ Founder & CEO of **Elyndor Properties**
 - 🤖 Build AI-powered systems (School Management, Real Estate, Hospital Platforms)
 - 🧠 Develop smart automation tools that replace manual workflows
 - 👨‍🏫 IT Tutor teaching practical software engineering
@@ -38,7 +37,7 @@ Building intelligent systems that automate operations, eliminate paperwork, and 
 ### 🌍 Portfolio
 
 All my live projects are available here:  
-👉 **https://bartplangedennis.netlify.app**
+👉 **https://dennisbart.netlify.app**
 
 ---
 
