@@ -16,14 +16,7 @@ Building AI-powered software products, scalable SaaS platforms, and intelligent 
 - 💻 Fullstack Software Engineer focused on building modern web applications and SaaS platforms
 - 🤖 Interested in AI-powered products, automation, and developer productivity tools
 - 🏗️ Built **XAATAI**, an AI-powered multi-tenant SaaS platform
-- 🧠 Experienced with AI-assisted development using:
-  - OpenAI Codex
-  - Cursor
-  - Claude Code
-  - Windsurf
-  - Antigravity
-  - ChatGPT
-  - DeepSeek
+- 🧠 Experienced with AI-assisted development using Coding Agents.
 - 👨‍🏫 IT Tutor helping others learn practical computing and software development
 
 ---
@@ -43,28 +36,12 @@ Building AI-powered software products, scalable SaaS platforms, and intelligent 
 
 ### 🤖 XAATAI — AI-Powered SaaS Platform
 A multi-tenant platform designed to help schools automate operations and improve productivity.
-
-**Highlights:**
-- Full-stack application architecture
-- Authentication and role-based access
-- Multi-tenant system design
-- Database-driven workflows
-- AI-powered automation concepts
-
-*(Private repository due to product development)*
+*(Private repository)*
 
 ---
 
 ### 📸 Smart Attendance System
 AI-powered attendance solution using facial recognition technology.
-
-**Highlights:**
-- Facial recognition integration
-- Automated attendance tracking
-- Backend and frontend development
-- Real-world school deployment
-
----
 
 ## 🌍 Portfolio
 
