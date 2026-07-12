@@ -1,91 +1,161 @@
 <h1 align="center">Hi 👋, I'm Dennis Bart-Plange</h1>
-<h3 align="center">Software Engineer | IT Tutor</h3>
+<h3 align="center">Fullstack Software Engineer | AI Builder</h3>
 
 <p align="center">
-Building intelligent systems that automate operations, eliminate paperwork, and scale businesses.
+Building AI-powered software products, scalable SaaS platforms, and intelligent systems that solve real-world problems.
 </p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bart-plange&label=Profile%20views&color=0e75b6&style=flat" alt="bart-plange" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bart-plange&theme=algolia" alt="bart-plange" />
-  </a> 
-</p>
+---
+
+## 🚀 About Me
+
+- 💻 Fullstack Software Engineer focused on building modern web applications and SaaS platforms
+- 🤖 Interested in AI-powered products, automation, and developer productivity tools
+- 🏗️ Built **XAATAI**, an AI-powered multi-tenant SaaS platform
+- 🧠 Experienced with AI-assisted development using:
+  - OpenAI Codex
+  - Cursor
+  - Claude Code
+  - Windsurf
+  - Antigravity
+  - ChatGPT
+  - DeepSeek
+- 👨‍🏫 IT Tutor helping others learn practical computing and software development
 
 ---
 
-### 🚀 What I Do
+## 🧩 Current Focus
 
-- 🤖 Build AI-powered systems (School Management, Real Estate, Hospital Platforms)
-- 🧠 Develop smart automation tools that replace manual workflows
-- 👨‍🏫 IT Tutor teaching practical software engineering
-
----
-
-### 🧩 Current Focus
-
-- Full-stack systems architecture (React + Node + PostgreSQL)
-- AI integrations inside SaaS platforms
-- Scalable backend infrastructure
-- Advanced dashboard systems & analytics
+- Full-stack application architecture
+- AI integrations inside SaaS products
+- AI agents and automation workflows
+- Scalable backend systems
+- Database design and API development
+- Developer tools and AI-assisted engineering workflows
 
 ---
 
-### 🌍 Portfolio
+## 🏗️ Featured Work
 
-All my live projects are available here:  
+### 🤖 XAATAI — AI-Powered SaaS Platform
+A multi-tenant platform designed to help schools automate operations and improve productivity.
+
+**Highlights:**
+- Full-stack application architecture
+- Authentication and role-based access
+- Multi-tenant system design
+- Database-driven workflows
+- AI-powered automation concepts
+
+*(Private repository due to product development)*
+
+---
+
+### 📸 Smart Attendance System
+AI-powered attendance solution using facial recognition technology.
+
+**Highlights:**
+- Facial recognition integration
+- Automated attendance tracking
+- Backend and frontend development
+- Real-world school deployment
+
+---
+
+## 🌍 Portfolio
+
+Explore my projects and work:
+
 👉 **https://dennisbart.netlify.app**
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/dennis-bart-plange" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennis-bart-plange" height="30" width="40" />
+
+<a href="https://linkedin.com/in/dennisbartplange" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-overflow" height="30" width="40" />
-</a>
-<a href="https://facebook.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-</a>
+
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<p align="left"> 
-<a href="https://react.dev" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+### Frontend
+
+<p align="left">
+
+<a href="https://nextjs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+
+<a href="https://react.dev">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+
+<a href="https://www.typescriptlang.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+
+<a href="https://tailwindcss.com">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+
 </p>
+
+
+### Backend & Database
+
+<p align="left">
+
+<a href="https://nodejs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.prisma.io">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+
+### Tools & Platforms
+
+- Git & GitHub
+- Linux
+- Docker
+- Netlify
+- Render
+- REST APIs
+- AI Development Tools
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Engineering Approach
+
+- Learn quickly through building real projects
+- Use AI tools to accelerate development and problem solving
+- Focus on clean, maintainable, and scalable solutions
+- Enjoy breaking down complex problems into practical systems
+
+---
+
+## 📊 GitHub Stats
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bart-plange&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bart-plange" />
