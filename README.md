@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Bart-Plange</h1>
-<h3 align="center">Fullstack Software Engineer | AI Builder</h3>
+<h3 align="center">Fullstack Software Engineer</h3>
 
 <p align="center">
 Building AI-powered software products, scalable SaaS platforms, and intelligent systems that solve real-world problems.
@@ -16,7 +16,6 @@ Building AI-powered software products, scalable SaaS platforms, and intelligent 
 - 💻 Fullstack Software Engineer focused on building modern web applications and SaaS platforms
 - 🤖 Interested in AI-powered products, automation, and developer productivity tools
 - 🏗️ Built **XAATAI**, an AI-powered multi-tenant SaaS platform
-- 🧠 Experienced with AI-assisted development using Coding Agents.
 - 👨‍🏫 IT Tutor helping others learn practical computing and software development
 
 ---
